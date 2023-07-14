@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ski Goggle
+* source:	https://sketchfab.com/3d-models/ski-goggle-9cfb8ac5c0ca48ff9a8ba2fa5c081303
+* author:	RomanSol (https://sketchfab.com/Roman5345)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ski Goggle" (https://sketchfab.com/3d-models/ski-goggle-9cfb8ac5c0ca48ff9a8ba2fa5c081303) by RomanSol (https://sketchfab.com/Roman5345) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
